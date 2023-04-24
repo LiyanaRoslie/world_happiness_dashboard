@@ -1,5 +1,3 @@
-# world_happiness_dashboard
-
 # Table of contents
 - [Objective](#objective)
 - [Development environment](#dev-kit)
